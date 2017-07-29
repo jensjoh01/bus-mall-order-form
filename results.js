@@ -21,8 +21,6 @@ function showCart() {
   }
 }
 
-
-
 // showCart();
 
 document.getElementById('showCart').addEventListener('click', showCart);
